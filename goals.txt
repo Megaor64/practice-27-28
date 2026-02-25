@@ -1,1 +1,1 @@
-I aim to learn git and become a fullstack developer
+I aim to learn git and become a fullstack developer with AI integration
